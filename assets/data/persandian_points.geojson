@@ -1,0 +1,1602 @@
+{
+  "type": "FeatureCollection",
+  "name": "persandian_points",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.37113172869,
+          -7.7846659067798
+        ]
+      },
+      "properties": {
+        "id": "museum-sandi",
+        "year": 2014,
+        "title": "Museum Sandi Kotabaru",
+        "category": "Museum",
+        "address": "Jl. Faridan M. Noto No.21, Kotabaru, Yogyakarta",
+        "accuracy": "Koordinat cagar budaya/publik",
+        "image": "assets/img/hero/hero1.jpg",
+        "summary": "Lokasi utama website ini. Museum Sandi menempati bangunan cagar budaya di Kotabaru dan menjadi pusat edukasi sejarah kriptologi Indonesia.",
+        "source": "Jogjacagar DIY; Buku Saku Pengunjung Museum Sandi 2024",
+        "priority": "focus",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-diy-code",
+          "route-institution"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3728,
+          -7.7849
+        ]
+      },
+      "properties": {
+        "id": "kotabaru-dinas-code",
+        "year": 1946,
+        "title": "Kawasan Kotabaru — perintisan Dinas Code",
+        "category": "Perintisan",
+        "address": "Kotabaru, Gondokusuman, Yogyakarta",
+        "accuracy": "Koordinat kawasan/estimasi",
+        "image": "assets/img/gallery/image-267.jpg",
+        "summary": "Kawasan awal kerja Dinas Code. Pada periode revolusi, Kotabaru menjadi simpul kementerian dan kerja komunikasi rahasia pemerintah.",
+        "source": "Buku Saku Pengunjung; Jogja Budaya",
+        "priority": "focus",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-diy-code",
+          "route-institution"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3745,
+          -7.7839
+        ]
+      },
+      "properties": {
+        "id": "gondokusuman-code",
+        "year": 1946,
+        "title": "Jl. Gondokusuman — Kantor Dinas Code Bagian B",
+        "category": "Perintisan",
+        "address": "Jl. Gondokusuman, Yogyakarta",
+        "accuracy": "Koordinat jalan/estimasi",
+        "image": "assets/img/location/jl-gondokusuman.jpg",
+        "summary": "Dalam materi gedung kantor persandian, lokasi ini dikaitkan dengan Kantor Dinas Code Kementerian Pertahanan Bagian B/Intelijen.",
+        "source": "Data foto pengguna; narasi sejarah Dinas Code",
+        "priority": "focus",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-diy-code"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3749,
+          -7.7858
+        ]
+      },
+      "properties": {
+        "id": "batanawarsa-4",
+        "year": 1946,
+        "title": "Jl. Batanawarsa No.4 — Dinas Teknik KP-V",
+        "category": "Perintisan",
+        "address": "Eks Jl. Batanawarsa No.4, Kotabaru, Yogyakarta",
+        "accuracy": "Koordinat kawasan/estimasi",
+        "image": "assets/img/location/jalan-batanawarsa.jpg",
+        "summary": "Disebut dalam materi sejarah sebagai lokasi Kantor Dinas Teknik Kementerian Pertahanan Bagian V/Code KP-V.",
+        "source": "Data foto pengguna; materi Museum Sandi",
+        "priority": "focus",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-diy-code"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3767,
+          -7.7862
+        ]
+      },
+      "properties": {
+        "id": "batanawarsa-32",
+        "year": 1946,
+        "title": "Jl. Batanawarsa No.32 — Kantor Dinas Code",
+        "category": "Perintisan",
+        "address": "Eks Jl. Batanawarsa No.32, Kotabaru, Yogyakarta",
+        "accuracy": "Koordinat kawasan/estimasi",
+        "image": "assets/img/location/jalan-batanawarsa.jpg",
+        "summary": "Lokasi yang dikaitkan dengan Kantor Dinas Code staf Angkatan Perang. Dalam beberapa narasi, kegiatan Code berpindah mengikuti kebutuhan organisasi.",
+        "source": "Data foto pengguna; Jogja Budaya",
+        "priority": "focus",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-diy-code"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3719,
+          -7.7851
+        ]
+      },
+      "properties": {
+        "id": "mahameru-1",
+        "year": 1946,
+        "title": "Jl. Mahameru No.1 — Code KP-V dan Radio",
+        "category": "Perintisan",
+        "address": "Eks Jl. Mahameru No.1, kini kawasan Jl. Faridan M. Noto, Yogyakarta",
+        "accuracy": "Koordinat kawasan/estimasi",
+        "image": "assets/img/location/jalan-mahameru.jpg",
+        "summary": "Kantor Code KP-V dan Radio yang disebut dalam materi sejarah persandian di Kotabaru sebelum perpindahan organisasi berikutnya.",
+        "source": "Materi Museum Sandi/Jogja Budaya",
+        "priority": "focus",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-diy-code"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3764,
+          -7.7829
+        ]
+      },
+      "properties": {
+        "id": "smpn5",
+        "year": 1949,
+        "title": "Gedung SMPN 5 Yogyakarta — Markas PHB AP dan Dinas Code",
+        "category": "Komunikasi",
+        "address": "Kotabaru, Yogyakarta",
+        "accuracy": "Koordinat kawasan/estimasi",
+        "image": "assets/img/location/smpn-5.jpg",
+        "summary": "Materi gedung kantor persandian menyebut bangunan yang kini SMPN 5 Yogyakarta pernah terkait Markas PHB Angkatan Perang dan Dinas Code.",
+        "source": "Data foto pengguna",
+        "priority": "focus",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-diy-code"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3762,
+          -7.8159
+        ]
+      },
+      "properties": {
+        "id": "museum-perjuangan",
+        "year": 2008,
+        "title": "Museum Perjuangan Yogyakarta — lokasi awal Museum Sandi",
+        "category": "Museum",
+        "address": "Brontokusuman, Yogyakarta",
+        "accuracy": "Koordinat kawasan/estimasi",
+        "image": "assets/img/pdf/ebook-cover.jpg",
+        "summary": "Museum Sandi pertama kali diresmikan pada 29 Juli 2008 dan awalnya menempati kawasan Museum Perjuangan Yogyakarta sebelum pindah ke Kotabaru.",
+        "source": "Buku Saku Pengunjung Museum Sandi 2024",
+        "priority": "focus",
+        "distanceKmFromMuseum": null,
+        "routeIds": [],
+        "symbol": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.166891,
+          -7.671788
+        ]
+      },
+      "properties": {
+        "id": "kamar-sandi-dukuh",
+        "year": 1949,
+        "title": "Kamar Sandi Negara Dukuh",
+        "category": "Gerilya",
+        "address": "Dusun Dukuh, Purwoharjo, Samigaluh, Kulon Progo",
+        "accuracy": "Koordinat cagar budaya",
+        "image": "assets/img/pdf/dukuh-diorama.jpg",
+        "summary": "Situs cagar budaya yang merekam aktivitas kamar sandi darurat pada masa Agresi Militer Belanda II dan gerilya di perbukitan Menoreh.",
+        "source": "Jogjacagar DIY; jurnal Rumah Sandi",
+        "priority": "focus",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-diy-code"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.2482,
+          -7.675
+        ]
+      },
+      "properties": {
+        "id": "boro-kalibawang",
+        "year": 1949,
+        "title": "Boro Kalibawang — simpul komunikasi Menoreh",
+        "category": "Komunikasi",
+        "address": "Kalibawang, Kulon Progo, Yogyakarta",
+        "accuracy": "Koordinat kawasan/estimasi",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Wilayah Menoreh/Kalibawang dikaitkan dengan jalur komunikasi perjuangan yang mendukung penyebaran berita dari Yogyakarta.",
+        "source": "Narasi sejarah radio perjuangan Yogyakarta",
+        "priority": "focus",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-diy-code"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.5432593,
+          -7.9509033
+        ]
+      },
+      "properties": {
+        "id": "pc2-playen",
+        "year": 1949,
+        "title": "Stasiun Radio PHB AURI PC-2 Playen",
+        "category": "Komunikasi",
+        "address": "Banaran, Playen, Gunungkidul, Yogyakarta",
+        "accuracy": "Koordinat cagar budaya",
+        "image": "assets/img/pdf/dukuh-diorama.jpg",
+        "summary": "Stasiun radio rahasia PHB AURI PC-2 di Banaran, Playen, Gunungkidul, menjadi penghubung komunikasi perjuangan pada 1949 dan penting untuk menyebarkan berita Serangan Umum 1 Maret ke jaringan luar.",
+        "source": "Dinas Kebudayaan DIY; Data Cagar Budaya Kemendikbud",
+        "priority": "focus",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-diy-code"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3662,
+          -7.7866
+        ]
+      },
+      "properties": {
+        "id": "museum-dharma-wiratama",
+        "year": 1949,
+        "title": "Museum Pusat TNI AD Dharma Wiratama — perangkat Radio Rimba Raya",
+        "category": "Koleksi",
+        "address": "Yogyakarta",
+        "accuracy": "Koordinat kawasan/estimasi",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Museum Pusat TNI AD Dharma Wiratama di Yogyakarta dihubungkan dengan narasi koleksi perangkat perjuangan, termasuk jejak komunikasi radio yang relevan untuk membaca jaringan informasi kemerdekaan.",
+        "source": "Data warisan Radio Rimba Raya",
+        "priority": "focus",
+        "distanceKmFromMuseum": null,
+        "routeIds": [],
+        "symbol": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8278,
+          -6.2015
+        ]
+      },
+      "properties": {
+        "id": "tosari-96",
+        "year": 1950,
+        "title": "Jl. Tosari No.96 Jakarta — Djawatan Sandi",
+        "category": "Kelembagaan",
+        "address": "Jl. Tosari No.96, Jakarta",
+        "accuracy": "Koordinat jalan/estimasi",
+        "image": "assets/img/location/jalan-tosari.jpg",
+        "summary": "Materi gedung kantor persandian mengaitkan lokasi ini dengan Kantor Djawatan Sandi Angkatan Perang dan Kantor Djawatan Sandi.",
+        "source": "Data foto pengguna",
+        "priority": "national",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-institution"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8283,
+          -6.204
+        ]
+      },
+      "properties": {
+        "id": "latuharhary-4b",
+        "year": 1950,
+        "title": "Jl. Latuharhary No.4B Jakarta — Lembaga Sandi Negara",
+        "category": "Kelembagaan",
+        "address": "Jl. Latuharhary No.4B, Jakarta",
+        "accuracy": "Koordinat jalan/estimasi",
+        "image": "assets/img/location/jl-latuharhary.jpg",
+        "summary": "Dalam materi gedung kantor persandian, alamat ini dikaitkan dengan Kantor Djawatan Sandi/Kantor Lembaga Sandi Negara.",
+        "source": "Data foto pengguna",
+        "priority": "national",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-institution"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8246,
+          -6.3028
+        ]
+      },
+      "properties": {
+        "id": "harsono-ragunan",
+        "year": 1972,
+        "title": "Jl. Harsono RM No.70 Ragunan — Lembaga Sandi Negara/BSSN",
+        "category": "Kelembagaan",
+        "address": "Jl. Harsono RM No.70, Ragunan, Jakarta Selatan",
+        "accuracy": "Koordinat kawasan/estimasi",
+        "image": "assets/img/location/jl-latuharhary.jpg",
+        "summary": "Alamat Ragunan menjadi salah satu simpul kelembagaan sandi nasional sebelum kantor pusat BSSN di Bojongsari, Depok.",
+        "source": "Direktori/riwayat kelembagaan BSSN",
+        "priority": "national",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-institution"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7449913,
+          -6.4073394
+        ]
+      },
+      "properties": {
+        "id": "bssn-depok",
+        "year": 2021,
+        "title": "Kantor BSSN Bojongsari, Depok",
+        "category": "Kelembagaan",
+        "address": "Jl. Raya Muchtar No.70, Bojongsari, Depok",
+        "accuracy": "Koordinat publik",
+        "image": "assets/img/location/kantor-bssn-depok.jpg",
+        "summary": "Kantor pusat Badan Siber dan Sandi Negara yang menaungi Museum Sandi dan melanjutkan fungsi keamanan siber dan sandi negara.",
+        "source": "Direktori publik BSSN",
+        "priority": "national",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-institution"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6785,
+          -6.4775
+        ]
+      },
+      "properties": {
+        "id": "poltekssn",
+        "year": 2003,
+        "title": "Politeknik Siber dan Sandi Negara",
+        "category": "Edukasi",
+        "address": "Jl. Raya H. Usa, Putat Nutug, Ciseeng, Bogor",
+        "accuracy": "Koordinat kawasan/estimasi",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Perguruan tinggi kedinasan di bawah BSSN untuk pendidikan bidang siber dan sandi.",
+        "source": "Situs resmi Poltek SSN",
+        "priority": "national",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-institution"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3692,
+          -0.3039
+        ]
+      },
+      "properties": {
+        "id": "bukittinggi-rri",
+        "year": 1948,
+        "title": "Bukittinggi — eks stasiun radio/Hotel Mihelmina PDRI",
+        "category": "PDRI",
+        "address": "Bukittinggi, Sumatera Barat",
+        "accuracy": "Koordinat kota/kawasan",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Bukittinggi dan jaringan radionya terkait pengumuman awal PDRI ke dunia luar ketika komunikasi republik harus bergerak.",
+        "source": "Sejarah RRI Bukittinggi/PDRI",
+        "priority": "national",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-pdri-sumatra"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6325,
+          -0.0615
+        ]
+      },
+      "properties": {
+        "id": "koto-tinggi-pdri",
+        "year": 1949,
+        "title": "Koto Tinggi — pusat PDRI dan radio perjuangan",
+        "category": "PDRI",
+        "address": "Koto Tinggi, Lima Puluh Kota, Sumatera Barat",
+        "accuracy": "Koordinat nagari/estimasi",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Koto Tinggi dikenal sebagai salah satu pusat PDRI; dari wilayah ini, siaran radio mengabarkan bahwa pemerintahan Indonesia masih berjalan.",
+        "source": "Forum Sumbar; riwayat PDRI",
+        "priority": "national",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-pdri-sumatra"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.3601,
+          -1.4136
+        ]
+      },
+      "properties": {
+        "id": "bidar-alam",
+        "year": 1949,
+        "title": "Bidar Alam — basis PDRI dan komunikasi radio",
+        "category": "PDRI",
+        "address": "Nagari Bidar Alam, Solok Selatan, Sumatera Barat",
+        "accuracy": "Koordinat kawasan",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Bidar Alam menjadi salah satu basis penting PDRI, termasuk keberadaan stasiun pemancar radio AURI sebagai alat komunikasi.",
+        "source": "Narasi PDRI Bidar Alam",
+        "priority": "national",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-pdri-sumatra"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.358632,
+          -1.413099
+        ]
+      },
+      "properties": {
+        "id": "surau-bulian-udo",
+        "year": 1949,
+        "title": "Surau Bulian / Radio UDO Bidar Alam",
+        "category": "PDRI",
+        "address": "Nagari Bidar Alam, Sangir Jujuan, Solok Selatan",
+        "accuracy": "Koordinat publik",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Bekas stasiun radio PHB AURI bernama panggilan UDO yang membantu PDRI terhubung dengan dunia internasional.",
+        "source": "Surau Bulian; PDRI",
+        "priority": "national",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-pdri-sumatra"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.927,
+          -0.663
+        ]
+      },
+      "properties": {
+        "id": "calau-silantai",
+        "year": 1949,
+        "title": "Calau–Silantai — jalur rombongan PDRI",
+        "category": "PDRI",
+        "address": "Sijunjung/Sumatera Barat",
+        "accuracy": "Koordinat administratif/estimasi",
+        "image": "assets/img/pdf/codebook-b.jpg",
+        "summary": "Jalur gerak rombongan PDRI yang dikaitkan dengan narasi Buku Kode B dan disiplin penjagaan tas code.",
+        "source": "Buku Saku Pengunjung Museum Sandi 2024",
+        "priority": "national",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-pdri-sumatra"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3238,
+          5.5483
+        ]
+      },
+      "properties": {
+        "id": "banda-aceh-kutaraja",
+        "year": 1949,
+        "title": "Kutaraja / Banda Aceh — simpul relay komunikasi",
+        "category": "Komunikasi",
+        "address": "Banda Aceh, Aceh",
+        "accuracy": "Koordinat kota",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Simpul Aceh dalam jejaring komunikasi perjuangan dan penerusan berita ke jalur internasional.",
+        "source": "Narasi radio perjuangan/PDRI",
+        "priority": "national",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-pdri-sumatra"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.846,
+          4.733
+        ]
+      },
+      "properties": {
+        "id": "radio-rimba-raya",
+        "year": 1948,
+        "title": "Radio Rimba Raya, Bener Meriah",
+        "category": "Komunikasi",
+        "address": "Kampung Rimba Raya, Pintu Rime Gayo, Bener Meriah, Aceh",
+        "accuracy": "Koordinat kecamatan/estimasi",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Radio darurat yang menyiarkan bahwa Republik Indonesia masih ada saat Agresi Militer Belanda II dan berperan dalam diplomasi informasi.",
+        "source": "DJKN Kemenkeu; Pemkab Bener Meriah",
+        "priority": "national",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-pdri-sumatra"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1735,
+          16.8409
+        ]
+      },
+      "properties": {
+        "id": "rangoon-yangon",
+        "year": 1949,
+        "title": "Rangoon/Yangon — jalur berita internasional",
+        "category": "Internasional",
+        "address": "Yangon, Myanmar",
+        "accuracy": "Koordinat kota",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Simpul luar negeri dalam narasi penerusan berita perjuangan Indonesia ke forum internasional.",
+        "source": "Narasi jalur komunikasi Serangan Umum 1 Maret",
+        "priority": "international",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-pdri-sumatra"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.209,
+          28.6139
+        ]
+      },
+      "properties": {
+        "id": "new-delhi",
+        "year": 1949,
+        "title": "New Delhi — diplomasi radio PDRI",
+        "category": "Internasional",
+        "address": "New Delhi, India",
+        "accuracy": "Koordinat kota",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Beberapa berita perjuangan Indonesia direlai melalui jaringan internasional di India, termasuk dalam konteks komunikasi diplomatik masa PDRI.",
+        "source": "Kajian Radio PDRI/Radio Rimba Raya",
+        "priority": "international",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-pdri-sumatra"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.366356,
+          -7.800253
+        ]
+      },
+      "properties": {
+        "id": "benteng-vredeburg",
+        "year": 1949,
+        "title": "Museum Benteng Vredeburg — Diorama Stasiun Pemancar Radio",
+        "category": "Museum",
+        "address": "Jl. Margo Mulyo No.6, Yogyakarta",
+        "accuracy": "Koordinat museum/publik",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Diorama di Museum Benteng Vredeburg memvisualkan stasiun pemancar radio PC-2 Playen dalam perang gerilya. Titik ini memperkuat narasi komunikasi rahasia dari Yogyakarta.",
+        "source": "Museum Benteng Vredeburg; Dinas Kebudayaan DIY",
+        "priority": "focus",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-diy-code"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.431389,
+          -7.788333
+        ]
+      },
+      "properties": {
+        "id": "lanud-adisutjipto",
+        "year": 1946,
+        "title": "Pangkalan Udara Maguwo/Adisutjipto — simpul PHB AURI",
+        "category": "Komunikasi",
+        "address": "Adisutjipto, Sleman/Yogyakarta",
+        "accuracy": "Koordinat pangkalan/kawasan",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Simpul AURI di Yogyakarta penting untuk membaca hubungan antara PHB AURI, jaringan radio perjuangan, dan penyebaran informasi negara pada masa revolusi.",
+        "source": "Narasi PHB AURI dan Radio PC-2 Playen",
+        "priority": "focus",
+        "distanceKmFromMuseum": null,
+        "routeIds": [],
+        "symbol": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.364994,
+          -7.800088
+        ]
+      },
+      "properties": {
+        "id": "gedung-agung-yogyakarta",
+        "year": 1946,
+        "title": "Gedung Agung Yogyakarta — pusat pemerintahan RI masa revolusi",
+        "category": "Perintisan",
+        "address": "Jl. Ahmad Yani, Yogyakarta",
+        "accuracy": "Koordinat publik",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Yogyakarta menjadi ibu kota RI pada masa revolusi. Titik Gedung Agung membantu menjelaskan kebutuhan komunikasi rahasia negara yang melatarbelakangi pembentukan Dinas Code.",
+        "source": "Konteks sejarah pemerintahan RI di Yogyakarta",
+        "priority": "focus",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-diy-code"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.367384,
+          -7.782934
+        ]
+      },
+      "properties": {
+        "id": "rri-yogyakarta",
+        "year": 1945,
+        "title": "RRI Yogyakarta — jaringan siaran perjuangan",
+        "category": "Komunikasi",
+        "address": "Yogyakarta",
+        "accuracy": "Koordinat kawasan/estimasi",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Jaringan siaran radio di Yogyakarta menjadi konteks penting penyebaran berita perjuangan. Pada peta, titik ini dibedakan dari jalur sandi karena sifatnya sebagai simpul komunikasi publik/perjuangan.",
+        "source": "Narasi radio perjuangan Yogyakarta",
+        "priority": "focus",
+        "distanceKmFromMuseum": null,
+        "routeIds": [],
+        "symbol": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.364097,
+          -7.803139
+        ]
+      },
+      "properties": {
+        "id": "alun-alun-utara-yogya",
+        "year": 1949,
+        "title": "Kawasan Kraton–Alun-alun Utara — konteks Serangan Umum 1 Maret",
+        "category": "Peristiwa",
+        "address": "Yogyakarta",
+        "accuracy": "Koordinat kawasan/estimasi",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Kawasan pusat kota Yogyakarta menjadi konteks Serangan Umum 1 Maret 1949. Informasi keberhasilan operasi kemudian disebarkan melalui jalur radio perjuangan.",
+        "source": "Konteks Serangan Umum 1 Maret dan komunikasi radio",
+        "priority": "focus",
+        "distanceKmFromMuseum": null,
+        "routeIds": [],
+        "symbol": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.353611,
+          -7.326389
+        ]
+      },
+      "properties": {
+        "id": "ciamis-roebiono",
+        "year": 1914,
+        "title": "Ciamis — asal Mayjen TNI dr. Roebiono Kertopati",
+        "category": "Tokoh",
+        "address": "Ciamis, Jawa Barat",
+        "accuracy": "Koordinat kota/kabupaten",
+        "image": "assets/img/figures/mayjen-tni-roebiono-kertopati.jpg",
+        "summary": "Ciamis ditandai sebagai lokasi kelahiran dr. Roebiono Kertopati, tokoh yang kemudian dikenal sebagai Bapak Persandian Indonesia dan perintis Dinas Code.",
+        "source": "Profil Roebiono Kertopati; BSSN/rujukan biografis",
+        "priority": "national",
+        "distanceKmFromMuseum": null,
+        "routeIds": [],
+        "symbol": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.672223,
+          3.595196
+        ]
+      },
+      "properties": {
+        "id": "medan-amir",
+        "year": 1907,
+        "title": "Medan — asal Mr. Amir Sjarifuddin",
+        "category": "Tokoh",
+        "address": "Medan, Sumatera Utara",
+        "accuracy": "Koordinat kota",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Medan ditandai sebagai tempat lahir Mr. Amir Sjarifuddin, Menteri Pertahanan yang memerintahkan pembentukan badan pemberitaan rahasia pada 1946.",
+        "source": "Perpustakaan Presiden/Profil Amir Sjarifuddin",
+        "priority": "national",
+        "distanceKmFromMuseum": null,
+        "routeIds": [],
+        "symbol": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.016667,
+          -7.716667
+        ]
+      },
+      "properties": {
+        "id": "purworejo-roebiono-family",
+        "year": 1914,
+        "title": "Purworejo — akar keluarga Roebiono Kertopati",
+        "category": "Tokoh",
+        "address": "Purworejo, Jawa Tengah",
+        "accuracy": "Koordinat kabupaten",
+        "image": "assets/img/figures/mayjen-tni-roebiono-kertopati.jpg",
+        "summary": "Purworejo dimasukkan sebagai titik konteks asal keluarga dr. Roebiono Kertopati, sehingga peta tidak hanya memuat kantor, tetapi juga latar tokoh persandian.",
+        "source": "BSSN/rujukan biografis Roebiono Kertopati",
+        "priority": "national",
+        "distanceKmFromMuseum": null,
+        "routeIds": [],
+        "symbol": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.630556,
+          -0.228889
+        ]
+      },
+      "properties": {
+        "id": "payakumbuh-pdri",
+        "year": 1948,
+        "title": "Payakumbuh — simpul gerak PDRI Sumatera Barat",
+        "category": "PDRI",
+        "address": "Payakumbuh, Sumatera Barat",
+        "accuracy": "Koordinat kota",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Payakumbuh dan sekitarnya menjadi ruang gerak penting PDRI. Titik ini menambah konteks jalur komunikasi dan perpindahan pemerintahan darurat di Sumatera Barat.",
+        "source": "Narasi sejarah PDRI Sumatera Barat",
+        "priority": "national",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-pdri-sumatra"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.405556,
+          -0.470556
+        ]
+      },
+      "properties": {
+        "id": "padang-panjang-pdri",
+        "year": 1948,
+        "title": "Padang Panjang — jalur Sumatera Barat masa PDRI",
+        "category": "PDRI",
+        "address": "Padang Panjang, Sumatera Barat",
+        "accuracy": "Koordinat kota",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Padang Panjang ditambahkan sebagai titik naratif jalur Sumatera Barat untuk memperlihatkan kepadatan ruang gerak komunikasi dan pemerintahan darurat.",
+        "source": "Narasi sejarah PDRI Sumatera Barat",
+        "priority": "national",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-pdri-sumatra"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.333,
+          -1.3
+        ]
+      },
+      "properties": {
+        "id": "solok-selatan-pdri",
+        "year": 1949,
+        "title": "Solok Selatan — kawasan gerilya PDRI dan Radio UDO",
+        "category": "PDRI",
+        "address": "Solok Selatan, Sumatera Barat",
+        "accuracy": "Koordinat kabupaten/kawasan",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Solok Selatan menjadi konteks administrasi bagi Bidar Alam dan Surau Bulian/Radio UDO, titik radio PHB AURI yang mendukung hubungan PDRI ke luar.",
+        "source": "Surau Bulian; PDRI Bidar Alam",
+        "priority": "national",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-pdri-sumatra"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.496366,
+          41.902782
+        ]
+      },
+      "properties": {
+        "id": "rome-caesar",
+        "year": -50,
+        "title": "Roma — asal narasi Sandi Caesar",
+        "category": "Sandi Klasik",
+        "address": "Roma, Italia",
+        "accuracy": "Koordinat kota",
+        "image": "assets/img/pdf/classic-cipher.jpg",
+        "summary": "Sandi Caesar ditampilkan sebagai contoh substitusi klasik. Titik Roma memberi konteks geografis asal narasi Julius Caesar dalam sejarah kriptografi klasik.",
+        "source": "Buku Saku Pengunjung Museum Sandi 2024; rujukan kriptografi klasik",
+        "priority": "international",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-classic-global"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.430091,
+          37.074461
+        ]
+      },
+      "properties": {
+        "id": "sparta-scytale",
+        "year": -500,
+        "title": "Sparta — Scytale Yunani",
+        "category": "Sandi Klasik",
+        "address": "Sparta, Yunani",
+        "accuracy": "Koordinat kota",
+        "image": "assets/img/pdf/classic-cipher.jpg",
+        "summary": "Scytale Yunani diperkenalkan sebagai metode pengiriman pesan rahasia menggunakan gulungan/tabung. Titik ini membedakan asal sandi klasik dari sebaran persandian Indonesia.",
+        "source": "Buku Saku Pengunjung Museum Sandi 2024",
+        "priority": "international",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-classic-global"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21371,
+          31.768319
+        ]
+      },
+      "properties": {
+        "id": "jerusalem-atbash",
+        "year": -600,
+        "title": "Yerusalem — konteks Atbash Ibrani",
+        "category": "Sandi Klasik",
+        "address": "Yerusalem",
+        "accuracy": "Koordinat kota",
+        "image": "assets/img/pdf/classic-cipher.jpg",
+        "summary": "Atbash dijelaskan sebagai sandi substitusi alfabet terbalik yang pertama dikenal pada abjad Ibrani. Titik ini menjadi referensi asal sandi klasik dalam ruang Sandi Klasik.",
+        "source": "Buku Saku Pengunjung Museum Sandi 2024",
+        "priority": "international",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-classic-global"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.255814,
+          43.769562
+        ]
+      },
+      "properties": {
+        "id": "florence-alberti",
+        "year": 1467,
+        "title": "Florence — Alberti Cipher Disk",
+        "category": "Sandi Klasik",
+        "address": "Florence, Italia",
+        "accuracy": "Koordinat kota",
+        "image": "assets/img/pdf/classic-cipher.jpg",
+        "summary": "Leon Battista Alberti dikaitkan dengan piringan sandi polialfabetik. Titik Florence memberi konteks Renaisans terhadap perkembangan alat sandi klasik.",
+        "source": "Buku Saku Pengunjung Museum Sandi 2024; rujukan kriptografi klasik",
+        "priority": "international",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-classic-global"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.366067,
+          33.315241
+        ]
+      },
+      "properties": {
+        "id": "baghdad-alkindi",
+        "year": 850,
+        "title": "Baghdad — Al-Kindi dan kriptanalisis frekuensi",
+        "category": "Sandi Klasik",
+        "address": "Baghdad, Irak",
+        "accuracy": "Koordinat kota",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Baghdad ditambahkan sebagai konteks awal kriptanalisis frekuensi dalam sejarah ilmu sandi, selaras dengan fitur analisis frekuensi pada Cipher Lab.",
+        "source": "Rujukan sejarah kriptanalisis klasik",
+        "priority": "international",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-classic-global"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7407,
+          51.9977
+        ]
+      },
+      "properties": {
+        "id": "bletchley-park",
+        "year": 1939,
+        "title": "Bletchley Park — kriptanalisis Perang Dunia II",
+        "category": "Teknologi",
+        "address": "Bletchley, Inggris",
+        "accuracy": "Koordinat publik",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Bletchley Park ditambahkan sebagai pembanding global perkembangan kriptanalisis modern dan mesin sandi era perang dunia.",
+        "source": "Rujukan sejarah kriptografi global",
+        "priority": "international",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-classic-global"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.515495,
+          47.166167
+        ]
+      },
+      "properties": {
+        "id": "zug-hagelin",
+        "year": 1952,
+        "title": "Zug — konteks mesin Hagelin/Crypto AG",
+        "category": "Teknologi",
+        "address": "Zug, Swiss",
+        "accuracy": "Koordinat kota",
+        "image": "assets/img/equipment/mesin-sandi-hagelin-bc-543.jpg",
+        "summary": "Zug, Swiss, ditambahkan sebagai titik pembanding teknologi mesin sandi komersial/elektromekanik yang relevan dengan koleksi Hagelin pada ruang global.",
+        "source": "Rujukan sejarah mesin sandi Hagelin/Crypto AG",
+        "priority": "international",
+        "distanceKmFromMuseum": null,
+        "routeIds": [
+          "route-classic-global"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.827153,
+          -6.175392
+        ]
+      },
+      "properties": {
+        "id": "jakarta-kemhan-context",
+        "year": 1946,
+        "title": "Jakarta — konteks Kementerian Pertahanan awal RI",
+        "category": "Perintisan",
+        "address": "Jakarta Pusat",
+        "accuracy": "Koordinat kota/estimasi",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Konteks administratif awal Kementerian Pertahanan sebelum pusat pemerintahan dan kegiatan Dinas Code bergerak mengikuti situasi revolusi.",
+        "source": "Narasi sejarah Dinas Code; Buku Saku Museum Sandi",
+        "priority": "national",
+        "routeIds": [
+          "route-institution"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3007,
+          52.070498
+        ]
+      },
+      "properties": {
+        "id": "den-haag-kmb",
+        "year": 1949,
+        "title": "Den Haag — Konferensi Meja Bundar dan dampak siaran perjuangan",
+        "category": "Internasional",
+        "address": "Den Haag, Belanda",
+        "accuracy": "Koordinat kota/konteks diplomasi",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Titik konteks diplomasi internasional. Berita radio perjuangan yang menegaskan Republik masih ada menjadi bagian dari tekanan informasi menuju pengakuan kedaulatan.",
+        "source": "Sejarah Radio Rimba Raya; konteks KMB",
+        "priority": "international",
+        "routeIds": [
+          "route-pdri-radio"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.364203,
+          -7.805284
+        ]
+      },
+      "properties": {
+        "id": "yogyakarta-kraton-hbix",
+        "year": 1949,
+        "title": "Kraton Yogyakarta — dukungan Sultan HB IX pada perjuangan informasi",
+        "category": "Peristiwa",
+        "address": "Kraton Yogyakarta",
+        "accuracy": "Koordinat publik",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Konteks Yogyakarta sebagai pusat perjuangan Republik. Dukungan politik dan jaringan perjuangan di Yogyakarta berkaitan dengan penyebaran berita Serangan Umum 1 Maret.",
+        "source": "Narasi sejarah Yogyakarta masa revolusi",
+        "priority": "focus",
+        "routeIds": [
+          "route-diy-code"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.366278,
+          -7.800911
+        ]
+      },
+      "properties": {
+        "id": "museum-bi-yogyakarta",
+        "year": 1949,
+        "title": "Gedung Bank Indonesia Yogyakarta — kawasan pemerintahan revolusi",
+        "category": "Peristiwa",
+        "address": "Kawasan titik nol Yogyakarta",
+        "accuracy": "Koordinat publik/kawasan",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Kawasan titik nol Yogyakarta dipakai sebagai konteks spasial pusat kota masa revolusi, dekat Gedung Agung, Vredeburg, dan jalur peristiwa Serangan Umum 1 Maret.",
+        "source": "Konteks kawasan pusaka Yogyakarta",
+        "priority": "focus",
+        "routeIds": [],
+        "symbol": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3428,
+          -0.4774
+        ]
+      },
+      "properties": {
+        "id": "lembah-anai-pdri",
+        "year": 1949,
+        "title": "Lembah Anai — jalur gerak PDRI Sumatera Barat",
+        "category": "PDRI",
+        "address": "Sumatera Barat",
+        "accuracy": "Koordinat kawasan/estimasi",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Titik tambahan untuk menggambarkan medan gerak PDRI di Sumatera Barat. Jalur ini membantu memperkaya bacaan geospasial antara Bukittinggi, Payakumbuh, Koto Tinggi, dan Bidar Alam.",
+        "source": "Narasi sejarah PDRI Sumatera Barat",
+        "priority": "national",
+        "routeIds": [
+          "route-pdri-radio"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6197,
+          -6.9121
+        ]
+      },
+      "properties": {
+        "id": "museum-telekom-bandung",
+        "year": 1900,
+        "title": "Bandung — konteks sejarah telekomunikasi dan komunikasi aman",
+        "category": "Komunikasi",
+        "address": "Bandung, Jawa Barat",
+        "accuracy": "Koordinat kota/konteks edukasi",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Titik konteks untuk memperluas pemahaman bahwa persandian tidak berdiri sendiri, tetapi selalu terkait jaringan telekomunikasi, radio, dan transmisi informasi.",
+        "source": "Konteks edukasi telekomunikasi Indonesia",
+        "priority": "national",
+        "routeIds": [],
+        "symbol": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.84354,
+          -6.18367
+        ]
+      },
+      "properties": {
+        "id": "museum-sumpah-pemuda-jakarta",
+        "year": 1946,
+        "title": "Jakarta — simpul sejarah kebangsaan dan komunikasi perjuangan",
+        "category": "Peristiwa",
+        "address": "Jakarta Pusat",
+        "accuracy": "Koordinat publik/konteks",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Titik konteks nasional untuk mengaitkan komunikasi perjuangan, organisasi negara, dan penyebaran informasi kebangsaan pada masa awal Republik.",
+        "source": "Konteks sejarah nasional Indonesia",
+        "priority": "national",
+        "routeIds": [],
+        "symbol": "point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1276,
+          51.5072
+        ]
+      },
+      "properties": {
+        "id": "london-cryptology-context",
+        "year": 1940,
+        "title": "London — konteks diplomasi dan kriptologi Perang Dunia II",
+        "category": "Internasional",
+        "address": "London, Inggris",
+        "accuracy": "Koordinat kota/konteks",
+        "image": "assets/img/ui/crypto-abstract.svg",
+        "summary": "Titik konteks global untuk menghubungkan kriptologi Perang Dunia II, Bletchley Park, dan perkembangan teknologi sandi modern yang menjadi pembanding ruang global Museum Sandi.",
+        "source": "Konteks sejarah kriptologi global",
+        "priority": "international",
+        "routeIds": [
+          "route-global-cipher"
+        ],
+        "symbol": "route"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110.37113172869,
+            -7.7846659067798
+          ],
+          [
+            110.3728,
+            -7.7849
+          ],
+          [
+            110.3745,
+            -7.7839
+          ],
+          [
+            110.3749,
+            -7.7858
+          ],
+          [
+            110.3719,
+            -7.7851
+          ],
+          [
+            110.3767,
+            -7.7862
+          ],
+          [
+            110.3764,
+            -7.7829
+          ],
+          [
+            110.364994,
+            -7.800088
+          ],
+          [
+            110.166891,
+            -7.671788
+          ],
+          [
+            110.2482,
+            -7.675
+          ],
+          [
+            110.5432593,
+            -7.9509033
+          ],
+          [
+            110.366356,
+            -7.800253
+          ],
+          [
+            110.364203,
+            -7.805284
+          ]
+        ]
+      },
+      "properties": {
+        "id": "route-diy-code",
+        "name": "Jalur DIY: Dinas Code–Dukuh–Radio PC-2",
+        "type": "Jalur komunikasi terhubung",
+        "color": "#2bd4ff",
+        "description": "Rute naratif yang menghubungkan pusat Dinas Code di Kotabaru, titik gerilya Dukuh Menoreh, dan radio PHB AURI PC-2 Playen sebagai simpul penyebaran berita perjuangan."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.3692,
+            -0.3039
+          ],
+          [
+            100.405556,
+            -0.470556
+          ],
+          [
+            100.630556,
+            -0.228889
+          ],
+          [
+            100.6325,
+            -0.0615
+          ],
+          [
+            101.3601,
+            -1.4136
+          ],
+          [
+            101.358632,
+            -1.413099
+          ],
+          [
+            101.333,
+            -1.3
+          ],
+          [
+            100.927,
+            -0.663
+          ],
+          [
+            96.846,
+            4.733
+          ],
+          [
+            95.3238,
+            5.5483
+          ],
+          [
+            96.1735,
+            16.8409
+          ],
+          [
+            77.209,
+            28.6139
+          ]
+        ]
+      },
+      "properties": {
+        "id": "route-pdri-sumatra",
+        "name": "Jalur PDRI: Sumatera Barat–Aceh–Internasional",
+        "type": "Jalur komunikasi terhubung",
+        "color": "#f6c84c",
+        "description": "Rute naratif komunikasi PDRI yang menandai perpindahan pusat darurat di Sumatera Barat, Radio UDO/Surau Bulian, Radio Rimba Raya, serta relay berita ke luar negeri."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            106.827153,
+            -6.175392
+          ],
+          [
+            110.37113172869,
+            -7.7846659067798
+          ],
+          [
+            110.3728,
+            -7.7849
+          ],
+          [
+            106.8278,
+            -6.2015
+          ],
+          [
+            106.8283,
+            -6.204
+          ],
+          [
+            106.8246,
+            -6.3028
+          ],
+          [
+            106.7449913,
+            -6.4073394
+          ],
+          [
+            106.6785,
+            -6.4775
+          ]
+        ]
+      },
+      "properties": {
+        "id": "route-institution",
+        "name": "Evolusi kantor: Dinas Code–Djawatan Sandi–BSSN",
+        "type": "Jalur kelembagaan",
+        "color": "#8bc7ff",
+        "description": "Rute kelembagaan yang membedakan titik kantor/organisasi dari jalur komunikasi perang. Rute ini membaca perpindahan dan perkembangan lembaga sandi negara dari Yogyakarta ke Jakarta, Depok, dan Bogor."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.21371,
+            31.768319
+          ],
+          [
+            22.430091,
+            37.074461
+          ],
+          [
+            12.496366,
+            41.902782
+          ],
+          [
+            11.255814,
+            43.769562
+          ],
+          [
+            44.366067,
+            33.315241
+          ],
+          [
+            -0.7407,
+            51.9977
+          ],
+          [
+            8.515495,
+            47.166167
+          ]
+        ]
+      },
+      "properties": {
+        "id": "route-classic-global",
+        "name": "Peta asal sandi klasik dan teknologi global",
+        "type": "Sebaran pembanding global",
+        "color": "#b38cff",
+        "description": "Bukan jalur komunikasi Indonesia, melainkan rangkaian referensi asal teknik sandi klasik dan teknologi global yang dipelajari di Museum Sandi."
+      }
+    }
+  ]
+}

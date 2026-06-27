@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Peta GIS | Museum Sandi WebGIS</title>
+  <meta name="description" content="WebGIS Museum Sandi Yogyakarta: peta sejarah persandian Indonesia, koleksi kriptologi, tokoh, galeri, virtual tour, dan Cipher Lab.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"><link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css"><link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
+</head>
+<body data-page="map">
+  <header class="topbar">
+    <div class="container nav-wrap">
+      <a class="brand" href="index.html" aria-label="Museum Sandi">
+        <img src="assets/img/logo.png" alt="Logo Museum Sandi">
+        <span><strong>Museum Sandi</strong><span>WebGIS Kriptologi Indonesia</span></span>
+      </a>
+      <button class="mobile-toggle" type="button">Menu</button>
+      <nav class="nav" aria-label="Navigasi utama"><a href="index.html">Beranda</a><a href="about.html">Tentang</a><a href="history.html">Sejarah</a><a href="technology.html">Teknologi</a><a href="map.html">Peta GIS</a><a href="figures.html">Tokoh</a><a href="gallery.html">Galeri</a><a href="cipher.html">Cipher Lab</a><a href="guide.html">Panduan</a><a href="contact.html">Kontak</a></nav>
+    </div>
+  </header>
+  <main>
+<section class="page-hero"><div class="container"><div class="breadcrumbs">Beranda / Peta GIS</div><h1>Peta persandian Indonesia</h1><p class="lead">Peta GIS berisi titik geospasial sejarah persandian, komunikasi rahasia, PDRI, kelembagaan BSSN, dan lokasi edukasi. Fokus utama tetap Museum Sandi Yogyakarta.</p></div></section>
+<section class="section map-section"><div class="container map-wide"><div class="map-shell"><aside class="map-panel"><h3>Kontrol peta</h3><div class="map-controls"><div><label>Pencarian</label><input id="mapSearch" type="search" placeholder="Cari lokasi, kategori, tahun..."></div><div><label>Kategori</label><select id="categoryFilter"></select></div><div><label>Cakupan</label><select id="priorityFilter"><option value="all">Semua cakupan</option><option value="focus">Fokus DIY / Museum Sandi</option><option value="national">Sebaran nasional</option><option value="international">Sebaran internasional</option></select></div><div><label>Jalur naratif</label><select id="routeFilter"></select></div><label class="check-row"><input id="showRoutes" type="checkbox" checked> Tampilkan jalur komunikasi/kelembagaan</label><label class="check-row"><input id="showPoints" type="checkbox" checked> Tampilkan titik sebaran mandiri</label><label class="check-row"><input id="focusMuseum" type="checkbox"> Tampilkan fokus sekitar Museum Sandi</label><button class="btn primary" id="fitAll" type="button">Sesuaikan tampilan</button><button class="btn ghost" id="centerMuseum" type="button">Pusatkan ke Museum Sandi</button><button class="btn ghost" id="downloadGeojson" type="button">Unduh GeoJSON</button></div><h3 style="margin-top:20px">Jalur terhubung</h3><div class="route-cards" id="routeCards"></div><h3 style="margin-top:20px">Legenda</h3><div class="legend" id="legend"></div></aside><div id="map" class="map-container" role="region" aria-label="Peta sebaran sejarah persandian"></div><aside class="map-sidebar"><h3>Daftar titik</h3><p class="section-sub" id="pointCount">0 titik tampil</p><div class="point-list" id="pointList"></div></aside></div></div></section>
+</main>
+  <footer class="footer">
+    <div class="container footer-grid">
+      <div><h3>Museum Sandi WebGIS</h3><p>Website statis berbasis GitHub Pages untuk edukasi sejarah persandian Indonesia, dengan fokus lokasi Museum Sandi Yogyakarta.</p><small>© 2026 Museum Sandi WebGIS. Konten edukasi dan prototipe akademik.</small></div>
+      <div><h3>Menu</h3><a href="map.html">Peta GIS</a><a href="cipher.html">Cipher Lab</a><a href="guide.html">Panduan</a><a href="gallery.html">Galeri</a></div>
+      <div><h3>Kontak</h3><p>WhatsApp: 0811-1065-2040<br>Jl. Faridan M. Noto No.21, Kotabaru, Yogyakarta</p></div>
+    </div>
+  </footer>
+  <button class="float-top" title="Kembali ke atas">↑</button>
+  <script src="assets/js/data.js"></script>
+  <script src="assets/js/app.js"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script><script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script><script src="assets/js/map.js"></script>
+</body>
+</html>

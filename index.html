@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Beranda | Museum Sandi WebGIS</title>
+  <meta name="description" content="WebGIS Museum Sandi Yogyakarta: peta sejarah persandian Indonesia, koleksi kriptologi, tokoh, galeri, virtual tour, dan Cipher Lab.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+  
+</head>
+<body data-page="index">
+  <header class="topbar">
+    <div class="container nav-wrap">
+      <a class="brand" href="index.html" aria-label="Museum Sandi">
+        <img src="assets/img/logo.png" alt="Logo Museum Sandi">
+        <span><strong>Museum Sandi</strong><span>WebGIS Kriptologi Indonesia</span></span>
+      </a>
+      <button class="mobile-toggle" type="button">Menu</button>
+      <nav class="nav" aria-label="Navigasi utama"><a href="index.html">Beranda</a><a href="about.html">Tentang</a><a href="history.html">Sejarah</a><a href="technology.html">Teknologi</a><a href="map.html">Peta GIS</a><a href="figures.html">Tokoh</a><a href="gallery.html">Galeri</a><a href="cipher.html">Cipher Lab</a><a href="guide.html">Panduan</a><a href="contact.html">Kontak</a></nav>
+    </div>
+  </header>
+  <main>
+<section class="hero home-hero">
+  <div class="hero-slider" id="heroSlider" aria-hidden="true"></div>
+  <div class="container hero-content">
+    <div class="hero-grid hero-grid-screenshot">
+      <div class="hero-copy">
+        <span class="eyebrow">Museum Kriptologi Indonesia</span>
+        <h1>Museum<br>Sandi</h1>
+        <p>Jelajahi sejarah persandian Indonesia: dari Dinas Code 1946, perjuangan komunikasi rahasia PDRI, mesin sandi nasional, hingga budaya keamanan informasi dan keamanan siber.</p>
+        <div class="hero-actions">
+          <a class="btn primary" href="history.html">Jelajahi Sejarah</a>
+          <a class="btn ghost" href="map.html">Buka Peta Persandian</a>
+          <a class="btn ghost" href="cipher.html">Coba Cipher Lab</a>
+        </div>
+      </div>
+      <aside class="hero-panel">
+        <span class="badge gold">Edisi data diperbarui</span>
+        <h3>Konten dan fitur yang tersedia</h3>
+        <p>Profil museum, 9 ruang pamer, linimasa klik-interaktif, peta WebGIS, tokoh, koleksi teknologi, galeri, virtual tour otomatis, Cipher Lab semi-game, dan panduan penggunaan.</p>
+      </aside>
+    </div>
+  </div>
+</section>
+<section class="home-stats-wrap"><div class="container"><div class="stats" id="homeStats"></div></div></section>
+<section class="section">
+  <div class="container split">
+    <div class="feature-panel"><span class="eyebrow"><span class="dot"></span> Fokus GIS</span><h2 class="section-title">Sebaran titik dibuat lebih luas, tetapi pusat analisis tetap Museum Sandi.</h2><p class="section-sub">Peta memuat titik di DIY, Jakarta, Depok, Bogor, Sumatera Barat, Aceh, serta simpul internasional untuk konteks jalur komunikasi perjuangan.</p><div class="actions" style="margin-top:18px"><a class="btn primary" href="map.html">Lihat Peta Interaktif</a><a class="btn ghost" href="assets/data/persandian_points.geojson">Unduh GeoJSON</a></div></div>
+    <div id="focusPoints" class="source-list"></div>
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    <div class="section-head"><div><h2 class="section-title">Ruang pamer utama</h2><p class="section-sub">Ringkasan ruang pamer dari profil Museum Sandi dan buku saku pengunjung.</p></div><a class="btn ghost" href="about.html#rooms">Lihat semua</a></div>
+    <div class="grid cols-3" id="roomsPreview"></div>
+  </div>
+</section>
+<section class="section" id="virtual-tour">
+  <div class="container">
+    <div class="section-head"><div><h2 class="section-title">Virtual tour Museum Sandi</h2><p class="section-sub">Video merupakan vitrual tour Museum Sandi Indonsesia yang berlokasi di Daerah Istimewa Yogyakarta.Sumber video: YouTube Museum Sandi.</p></div></div>
+    <div class="video-wrap"><video autoplay muted loop playsinline controls preload="metadata" poster="assets/video/virtual-tour-poster.jpg"><source src="assets/video/virtual-tour-museum-sandi.mp4" type="video/mp4">Browser Anda tidak mendukung video.</video><div class="video-note"><b>Sumber:</b> YouTube Museum Sandi.</div></div>
+  </div>
+</section>
+<section class="section">
+  <div class="container">
+    <div class="section-head"><div><h2 class="section-title">Panduan cepat</h2><p class="section-sub">Petunjuk inti agar pengunjung dapat memakai fitur GIS, galeri, dan percobaan sandi.</p></div><a class="btn ghost" href="guide.html">Buka panduan lengkap</a></div>
+    <div class="guide-list" id="guidePreview"></div>
+  </div>
+</section>
+<section class="section visit-cta" id="kunjungi-museum">
+  <div class="container">
+    <div class="visit-box">
+      <span class="eyebrow">Informasi Terbatas</span>
+
+      <h2>Ingin tahu selengkapnya?</h2>
+
+      <p>
+        Website ini hanya menampilkan sebagian informasi, koleksi, ruang pamer,
+        dan sejarah yang ada di Museum Sandi Indonesia. Untuk melihat koleksi,
+        suasana ruang pamer, serta pengalaman edukasi kriptologi secara lebih
+        lengkap, pengunjung dapat datang langsung ke Museum Sandi Indonesia.
+      </p>
+
+      <div class="visit-address">
+        <strong>Alamat Museum Sandi Indonesia</strong>
+        <span>
+          Jl. Faridan M. Noto No. 21, Kotabaru, Kec. Gondokusuman,
+          Kota Yogyakarta, Daerah Istimewa Yogyakarta 55224.
+        </span>
+      </div>
+
+      <div class="visit-info-grid">
+        <div>
+          <strong>Jam Kunjungan</strong>
+          <span>Selasa–Kamis 09.00–18.00 WIB</span>
+          <span>Jumat 09.00–21.00 WIB</span>
+          <span>Sabtu–Minggu 09.00–15.00 WIB</span>
+        </div>
+
+        <div>
+          <strong>Kontak</strong>
+          <span>WhatsApp: 0811-1065-2040</span>
+          <span>Instagram: @museum.sandi</span>
+          <span>YouTube: Museum Sandi BSSN</span>
+        </div>
+      </div>
+
+      <div class="visit-actions">
+        <a class="btn primary" href="https://maps.google.com/?q=Museum%20Sandi%20Yogyakarta" target="_blank">
+          Buka Google Maps
+        </a>
+
+        <a class="btn ghost" href="contact.html">
+          Informasi Kunjungan
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+  <footer class="footer">
+    <div class="container footer-grid">
+      <div><h3>Museum Sandi WebGIS</h3><p>Website statis berbasis GitHub Pages untuk edukasi sejarah persandian Indonesia, dengan fokus lokasi Museum Sandi Yogyakarta.</p><small>© Kelompok 2_Kelas GM-C. Konten edukasi dan prototipe akademik.</small></div>
+      <div><h3>Menu</h3><a href="map.html">Peta GIS</a><a href="cipher.html">Cipher Lab</a><a href="guide.html">Panduan</a><a href="gallery.html">Galeri</a></div>
+      <div><h3>Kontak</h3><p>WhatsApp: 0811-1065-2040<br>Jl. Faridan M. Noto No.21, Kotabaru, Yogyakarta</p></div>
+    </div>
+  </footer>
+  <button class="float-top" title="Kembali ke atas">↑</button>
+  <script src="assets/js/data.js"></script>
+  <script src="assets/js/app.js"></script>
+  <script src="assets/js/home.js"></script>
+</body>
+</html>

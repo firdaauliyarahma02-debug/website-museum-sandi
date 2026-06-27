@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cipher Lab | Museum Sandi WebGIS</title>
+  <meta name="description" content="WebGIS Museum Sandi Yogyakarta: peta sejarah persandian Indonesia, koleksi kriptologi, tokoh, galeri, virtual tour, dan Cipher Lab.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+  
+</head>
+<body data-page="cipher">
+  <header class="topbar">
+    <div class="container nav-wrap">
+      <a class="brand" href="index.html" aria-label="Museum Sandi">
+        <img src="assets/img/logo.png" alt="Logo Museum Sandi">
+        <span><strong>Museum Sandi</strong><span>WebGIS Kriptologi Indonesia</span></span>
+      </a>
+      <button class="mobile-toggle" type="button">Menu</button>
+      <nav class="nav" aria-label="Navigasi utama"><a href="index.html">Beranda</a><a href="about.html">Tentang</a><a href="history.html">Sejarah</a><a href="technology.html">Teknologi</a><a href="map.html">Peta GIS</a><a href="figures.html">Tokoh</a><a href="gallery.html">Galeri</a><a href="cipher.html">Cipher Lab</a><a href="guide.html">Panduan</a><a href="contact.html">Kontak</a></nav>
+    </div>
+  </header>
+  <main>
+<section class="page-hero"><div class="container"><div class="breadcrumbs">Beranda / Cipher Lab</div><h1>Coba sandi sederhana</h1><p class="lead">Fitur ini dibuat untuk edukasi dasar kriptografi. Pengunjung dapat mencoba Caesar, Atbash, Vigenère, Base64, dan analisis frekuensi.</p></div></section>
+<section class="section cipher-game-section"><div class="container cipher-game-layout">
+  <div class="cipher-console tool-card">
+    <div class="console-top"><span></span><span></span><span></span><b>Crypto Mission Console</b></div>
+    <div class="mission-board">
+      <div><small>Level</small><strong id="cipherLevel">01</strong></div>
+      <div><small>Status</small><strong id="cipherStatus">Siap</strong></div>
+      <div><small>Skor Edukasi</small><strong id="cipherScore">0</strong></div>
+    </div>
+    <div class="challenge-strip" id="challengeStrip"></div>
+    <div class="form-grid">
+      <div class="field"><label>Metode</label><select id="cipherMethod"><option value="caesar">Caesar Cipher</option><option value="atbash">Atbash</option><option value="vigenere">Vigenère</option><option value="base64">Base64</option><option value="frequency">Analisis Frekuensi</option></select></div>
+      <div class="field"><label>Mode</label><select id="cipherMode"><option value="encrypt">Enkripsi</option><option value="decrypt">Dekripsi</option></select></div>
+    </div>
+    <div class="rotor-row" aria-hidden="true"><span>A</span><span>B</span><span>C</span><span>D</span><span>E</span><span>F</span><span>G</span><span>H</span></div>
+    <div class="field" style="margin-top:12px"><label>Kunci / Shift</label><input id="cipherKey" value="3" placeholder="Contoh Caesar: 3, Vigenère: SANDI"></div>
+    <div class="field" style="margin-top:12px"><label>Teks misi</label><textarea id="cipherInput" placeholder="Masukkan pesan rahasia..."></textarea></div>
+    <div class="actions" style="margin-top:14px"><button class="btn primary" id="runCipher" type="button">Jalankan Mesin</button><button class="btn ghost" id="exampleCipher" type="button">Ambil Misi</button><button class="btn ghost" id="clearCipher" type="button">Reset</button></div>
+    <h3>Hasil transmisi</h3><div class="output mono cipher-output" id="cipherOutput">Hasil akan muncul di sini.</div>
+  </div>
+  <aside class="cipher-side">
+    <div class="feature-panel cipher-radar"><h2 class="section-title">Panduan Cipher Lab</h2><p class="section-sub">Mode semi-game untuk memahami substitusi, pergeseran, kunci, dan pola frekuensi. Gunakan untuk edukasi, bukan keamanan data nyata.</p><div class="radar-dot"></div></div>
+    <div class="guide-list" id="cipherGuide" style="margin-top:18px"></div>
+  </aside>
+</div></section>
+</main>
+  <footer class="footer">
+    <div class="container footer-grid">
+      <div><h3>Museum Sandi WebGIS</h3><p>Website statis berbasis GitHub Pages untuk edukasi sejarah persandian Indonesia, dengan fokus lokasi Museum Sandi Yogyakarta.</p><small>© 2026 Museum Sandi WebGIS. Konten edukasi dan prototipe akademik.</small></div>
+      <div><h3>Menu</h3><a href="map.html">Peta GIS</a><a href="cipher.html">Cipher Lab</a><a href="guide.html">Panduan</a><a href="gallery.html">Galeri</a></div>
+      <div><h3>Kontak</h3><p>WhatsApp: 0811-1065-2040<br>Jl. Faridan M. Noto No.21, Kotabaru, Yogyakarta</p></div>
+    </div>
+  </footer>
+  <button class="float-top" title="Kembali ke atas">↑</button>
+  <script src="assets/js/data.js"></script>
+  <script src="assets/js/app.js"></script>
+  <script src="assets/js/cipher.js"></script>
+</body>
+</html>
